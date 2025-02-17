@@ -1,9 +1,9 @@
-Record=TopLevelDocument|FileName=[1] TableOfContents.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[2] BlockDiagram.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[3] TopLevel.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[4] Sensors.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[5] ButtonsAndLeds.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[6] RgbLed.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[7] PowerManagement.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[8] Conectors.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=[1] TableOfContents.SchDoc|FileName=[9] Mechanical.SchDoc|SheetNumber=9
+Record=TopLevelDocument|FileName=[3] TopLevel.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[1] TableOfContents|SchDesignator=[1] TableOfContents|FileName=[1] TableOfContents.SchDoc|SheetNumber=1|SymbolType=Normal|RawFileName=[1] TableOfContents.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[2] BlockDiagram|SchDesignator=[2] BlockDiagram|FileName=[2] BlockDiagram.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=[2] BlockDiagram.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[4] Sensors|SchDesignator=[4] Sensors|FileName=[4] Sensors.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=[4] Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[5] ButtonsAndLeds|SchDesignator=[5] ButtonsAndLeds|FileName=[5] ButtonsAndLeds.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=[5] ButtonsAndLeds.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[7] PowerManagement|SchDesignator=[7] PowerManagement|FileName=[7] PowerManagement.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=[7] PowerManagement.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[8] Conectors|SchDesignator=[8] Conectors|FileName=[8] Conectors.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=[8] Conectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[3] TopLevel.SchDoc|Designator=[9] Mechanical|SchDesignator=[9] Mechanical|FileName=[9] Mechanical.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=[9] Mechanical.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=[3] TopLevel.SchDoc|FileName=[6] RgbLed.SchDoc|SheetNumber=6

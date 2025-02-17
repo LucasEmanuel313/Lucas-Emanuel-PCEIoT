@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AUUEOYWJ
 
 [Document11]
 DocumentPath=Libraries\PCEIOT.SCHLIB
@@ -234,35 +234,56 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=DROQFQHZ
+
+[Document12]
+DocumentPath=Sources\[3] TopLevel.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Address1
-Value=R. Aprígio Veloso, 882, Universitário
+Name=Version
+Value=V1.0.0
 
 [Parameter2]
-Name=Address2
-Value=Campina Grande - PB
+Name=SCH_SCALE
+Value=1:1
 
 [Parameter3]
-Name=Address3
-Value=58429-900
-
-[Parameter4]
-Name=DocumentRev
-Value=Not in Version Control
-
-[Parameter5]
-Name=Project
-Value=PCEIoT
-
-[Parameter6]
 Name=ProjectRev
 Value=Not in Version Control
 
+[Parameter4]
+Name=Project
+Value=PCEIoT
+
+[Parameter5]
+Name=DocumentRev
+Value=Not in Version Control
+
+[Parameter6]
+Name=Address3
+Value=58429-900
+
 [Parameter7]
-Name=SCH_SCALE
-Value=1:1
+Name=Address2
+Value=Campina Grande - PB
+
+[Parameter8]
+Name=Address1
+Value=R. Aprígio Veloso, 882, Universitário
 
 [Configuration1]
 Name=Sources
@@ -1222,6 +1243,37 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+3V3|NetColor=$00000098
+Net2=NetName=GP0/MB1 TX|NetColor=clBlue
+Net3=NetName=GP1/MB1 RX|NetColor=clBlue
+Net4=NetName=GP10/MOT CSn|NetColor=clLime
+Net5=NetName=GP12/ICM INT1|NetColor=$000099FF
+Net6=NetName=GP13/OPT INT|NetColor=$000099FF
+Net7=NetName=GP14/MB1 CS|NetColor=clLime
+Net8=NetName=GP15/SD DET|NetColor=clLime
+Net9=NetName=GP16/SPIO RX|NetColor=clLime
+Net10=NetName=GP17/SPIO CSn|NetColor=clLime
+Net11=NetName=GP18/SPIO SCK|NetColor=clLime
+Net12=NetName=GP19/SPIO TX|NetColor=clLime
+Net13=NetName=GP2/MB1 PWM|NetColor=clBlue
+Net14=NetName=GP20/MB2 RST|NetColor=$00E8864A
+Net15=NetName=GP21/MB2 INT|NetColor=$00E8864A
+Net16=NetName=GP22/MB2 CS|NetColor=clLime
+Net17=NetName=GP26/MB1 ADC|NetColor=clBlue
+Net18=NetName=GP27/MB2 ADC|NetColor=$00E8864A
+Net19=NetName=GP28/ADC2|NetColor=clBlue
+Net20=NetName=GP3/MB1 INT|NetColor=clBlue
+Net21=NetName=GP4/I2C0 SDA|NetColor=clAqua
+Net22=NetName=GP5/I2C0 SDL|NetColor=clAqua
+Net23=NetName=GP6/MB1 RST|NetColor=clBlue
+Net24=NetName=GP7/MB2 PWM|NetColor=$00E8864A
+Net25=NetName=GP8/MB2 TX|NetColor=$00E8864A
+Net26=NetName=GP9/MB2 RX|NetColor=$00E8864A
+Net27=NetName=VBUS|NetColor=$00000098
+Net28=NetName=VREF|NetColor=$00000098
+Net29=NetName=VSYS|NetColor=$00000098
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
