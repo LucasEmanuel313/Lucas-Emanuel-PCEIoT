@@ -253,37 +253,54 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=Sources\[4] Sensors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=Version
-Value=V1.0.0
+Name=Address1
+Value=R. Aprígio Veloso, 882, Universitário
 
 [Parameter2]
-Name=SCH_SCALE
-Value=1:1
-
-[Parameter3]
-Name=ProjectRev
-Value=Not in Version Control
-
-[Parameter4]
-Name=Project
-Value=PCEIoT
-
-[Parameter5]
-Name=DocumentRev
-Value=Not in Version Control
-
-[Parameter6]
-Name=Address3
-Value=58429-900
-
-[Parameter7]
 Name=Address2
 Value=Campina Grande - PB
 
+[Parameter3]
+Name=Address3
+Value=58429-900
+
+[Parameter4]
+Name=DocumentRev
+Value=Not in Version Control
+
+[Parameter5]
+Name=Project
+Value=PCEIoT
+
+[Parameter6]
+Name=ProjectRev
+Value=Not in Version Control
+
+[Parameter7]
+Name=SCH_SCALE
+Value=1:1
+
 [Parameter8]
-Name=Address1
-Value=R. Aprígio Veloso, 882, Universitário
+Name=Version
+Value=V1.0.0
 
 [Configuration1]
 Name=Sources
@@ -1271,9 +1288,17 @@ Net23=NetName=GP6/MB1 RST|NetColor=clBlue
 Net24=NetName=GP7/MB2 PWM|NetColor=$00E8864A
 Net25=NetName=GP8/MB2 TX|NetColor=$00E8864A
 Net26=NetName=GP9/MB2 RX|NetColor=$00E8864A
-Net27=NetName=VBUS|NetColor=$00000098
-Net28=NetName=VREF|NetColor=$00000098
-Net29=NetName=VSYS|NetColor=$00000098
+Net27=NetName=I2C SCL|NetColor=clAqua
+Net28=NetName=I2C SDA|NetColor=clAqua
+Net29=NetName=ICM INT1|NetColor=$000099FF
+Net30=NetName=ICM SPI CLK|NetColor=clLime
+Net31=NetName=ICM SPI CSn|NetColor=clLime
+Net32=NetName=ICM SPI SDI|NetColor=clLime
+Net33=NetName=ICM SPI SDO|NetColor=clLime
+Net34=NetName=OPT INT|NetColor=$000099FF
+Net35=NetName=VBUS|NetColor=$00000098
+Net36=NetName=VREF|NetColor=$00000098
+Net37=NetName=VSYS|NetColor=$00000098
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
