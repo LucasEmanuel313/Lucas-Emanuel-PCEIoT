@@ -287,37 +287,71 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUYSRXGN
 
+[Document15]
+DocumentPath=Sources\[8] Conectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=Sources\[5] ButtonsAndLeds.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=Version
-Value=V1.0.0
+Name=Address1
+Value=R. Aprígio Veloso, 882, Universitário
 
 [Parameter2]
-Name=SCH_SCALE
-Value=1:1
-
-[Parameter3]
-Name=ProjectRev
-Value=Not in Version Control
-
-[Parameter4]
-Name=Project
-Value=PCEIoT
-
-[Parameter5]
-Name=DocumentRev
-Value=Not in Version Control
-
-[Parameter6]
-Name=Address3
-Value=58429-900
-
-[Parameter7]
 Name=Address2
 Value=Campina Grande - PB
 
+[Parameter3]
+Name=Address3
+Value=58429-900
+
+[Parameter4]
+Name=DocumentRev
+Value=Not in Version Control
+
+[Parameter5]
+Name=Project
+Value=PCEIoT
+
+[Parameter6]
+Name=ProjectRev
+Value=Not in Version Control
+
+[Parameter7]
+Name=SCH_SCALE
+Value=1:1
+
 [Parameter8]
-Name=Address1
-Value=R. Aprígio Veloso, 882, Universitário
+Name=Version
+Value=V1.0.0
 
 [Configuration1]
 Name=Sources
