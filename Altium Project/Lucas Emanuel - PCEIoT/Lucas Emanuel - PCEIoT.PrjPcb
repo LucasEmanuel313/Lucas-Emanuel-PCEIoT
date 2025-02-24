@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Fabricação
 
 [Preferences]
 PrefsVaultGUID=
@@ -321,37 +322,62 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueId=d7d7c2a3-f0de-44ec-b216-d506923572cf
+Description=Manufacturing
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueId=8bdd6df8-65fd-4605-a3b5-b229d61abf8b
+Description=Fabricação
+AllowFabrication=0
+ParameterCount=1
+VariationCount=5
+Variation1=Designator=R19|UniqueId=\ZCDFFIIZ\LYRSUHOM|Kind=1|AlternatePart=
+Variation2=Designator=R18|UniqueId=\ZCDFFIIZ\PIUJDOAS|Kind=1|AlternatePart=
+Variation3=Designator=R5|UniqueId=\AHRZCJZW\HOKAKYXG|Kind=1|AlternatePart=
+Variation4=Designator=R?|UniqueId=\QMFHABKM|Kind=1|AlternatePart=
+Variation5=Designator=R?|UniqueId=\CKXIHBBJ|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[Parameter3_1]
+Name=Fabricação
+Value=
+
 [Parameter1]
-Name=Address1
-Value=R. Aprígio Veloso, 882, Universitário
+Name=Version
+Value=V1.0.0
 
 [Parameter2]
-Name=Address2
-Value=Campina Grande - PB
-
-[Parameter3]
-Name=Address3
-Value=58429-900
-
-[Parameter4]
-Name=DocumentRev
-Value=Not in Version Control
-
-[Parameter5]
-Name=Project
-Value=PCEIoT
-
-[Parameter6]
-Name=ProjectRev
-Value=Not in Version Control
-
-[Parameter7]
 Name=SCH_SCALE
 Value=1:1
 
+[Parameter3]
+Name=ProjectRev
+Value=Not in Version Control
+
+[Parameter4]
+Name=Project
+Value=PCEIoT
+
+[Parameter5]
+Name=DocumentRev
+Value=Not in Version Control
+
+[Parameter6]
+Name=Address3
+Value=58429-900
+
+[Parameter7]
+Name=Address2
+Value=Campina Grande - PB
+
 [Parameter8]
-Name=Version
-Value=V1.0.0
+Name=Address1
+Value=R. Aprígio Veloso, 882, Universitário
 
 [Configuration1]
 Name=Sources
@@ -1101,11 +1127,11 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
@@ -1249,8 +1275,8 @@ Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
+L2=NNNNNNNWWWNWNNNWN
+L3=NNEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
@@ -1261,7 +1287,7 @@ L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
-L14=NWEENEEEENEWNEEWW
+L14=NNEENEEEENEWNEEWW
 L15=NNENNNNEEENWNENWW
 L16=WWWWNWWNWWWNWWWNW
 L17=WNNNNNNNWNNNWWWWN
@@ -1395,13 +1421,12 @@ Net79=NetName=MB2_RX|NetColor=$00FF0099
 Net80=NetName=MB2_SCK|NetColor=clLime
 Net81=NetName=MB2_SCL|NetColor=clAqua
 Net82=NetName=MB2_SDA|NetColor=$00FF0099
-Net83=NetName=MIC OUT|NetColor=$000099FF
-Net84=NetName=OPT INT|NetColor=$000099FF
-Net85=NetName=VBAT-|NetColor=$00000098
-Net86=NetName=VBAT+|NetColor=$00000098
-Net87=NetName=VBUS|NetColor=$00000098
-Net88=NetName=VREF|NetColor=$00000098
-Net89=NetName=VSYS|NetColor=$00000098
+Net83=NetName=OPT INT|NetColor=$000099FF
+Net84=NetName=VBAT-|NetColor=$00000098
+Net85=NetName=VBAT+|NetColor=$00000098
+Net86=NetName=VBUS|NetColor=$00000098
+Net87=NetName=VREF|NetColor=$00000098
+Net88=NetName=VSYS|NetColor=$00000098
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
