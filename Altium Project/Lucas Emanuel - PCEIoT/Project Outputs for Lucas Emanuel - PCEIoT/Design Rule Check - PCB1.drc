@@ -1,0 +1,559 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Lucas_Emanuel\Documents\Lucas Emanuel _ PCEIoT\Altium Project\Lucas Emanuel - PCEIoT\PCB1.PcbDoc
+Date     : 22/04/2025
+Time     : 14:57:33
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C24-2(13640mil,5117.559mil) on Top Copper And Pad +3V3-1(18090mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U1-36(17610mil,2640mil) on Multi-Layer And Pad +3V3-1(18090mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP26/MB1_ADC Between Pad ADC1-1(11530mil,3130mil) on Top Copper And Pad U1-31(17610mil,2140mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP27/MB2_ADC Between Pad ADC2-1(11010mil,3130mil) on Top Copper And Pad U1-32(17610mil,2240mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP28/ADC2 Between Pad P1-2(9880mil,3000mil) on Multi-Layer And Pad ADC3-1(10430mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP28/ADC2 Between Pad ADC3-1(10430mil,3130mil) on Top Copper And Pad U1-34(17610mil,2440mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BTN_1 Between Pad C15-2(8292.441mil,8700mil) on Top Copper And Pad BTN1-1(13700mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_1 Between Pad U7-27(11928.504mil,1107.756mil) on Top Copper And Pad BTN1-1(13700mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_2 Between Pad C16-2(8932.441mil,8700mil) on Top Copper And Pad BTN2-1(12540mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_2 Between Pad U7-28(11912.756mil,1107.756mil) on Top Copper And Pad BTN2-1(12540mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_3 Between Pad C17-2(9592.441mil,8700mil) on Top Copper And Pad BTN3-1(12250mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_3 Between Pad U7-1(11882.244mil,1077.244mil) on Top Copper And Pad BTN3-1(12250mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C10-1(7300mil,8072.441mil) on Top Copper And Pad C9-1(7692.441mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q2-3(7159.37mil,7690mil) on Top Copper And Pad C10-1(7300mil,8072.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C10-2(7300mil,8127.559mil) on Top Copper And Pad C9-2(7747.559mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U2-8(12693.15mil,8040.472mil) on Top Copper And Pad C1-1(12792.441mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C1-1(12792.441mil,8120mil) on Top Copper And Pad U3-1(12946.142mil,8119.528mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-1(11780mil,972.441mil) on Top Copper And Via (11938.346mil,1008.346mil) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C11-2(11780mil,1027.559mil) on Top Copper And Pad U7-4(11882.244mil,1030mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-11(12693.15mil,8099.528mil) on Top Copper And Pad C1-2(12847.559mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-2(12847.559mil,8120mil) on Top Copper And Pad U3-4(12946.142mil,8060.472mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R30-1(11880mil,764.882mil) on Top Copper And Pad C12-1(12027.559mil,860mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C12-1(12027.559mil,860mil) on Top Copper And Pad U7-17(12037.756mil,1014.252mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R26-2(11820mil,764.882mil) on Top Copper And Pad C12-2(11972.441mil,860mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C12-2(11972.441mil,860mil) on Top Copper And Pad U7-12(11975.748mil,952.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-1(12120mil,972.441mil) on Top Copper And Pad U1-18(16910mil,1340mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-17(12037.756mil,1014.252mil) on Top Copper And Pad C13-1(12120mil,972.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U7-18(12037.756mil,1030mil) on Top Copper And Pad C13-2(12120mil,1027.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R31-1(11820mil,1387.559mil) on Top Copper And Pad C14-1(11992.441mil,1240mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (11981.654mil,1051.653mil) from Top Copper to Bottom Copper And Pad C14-1(11992.441mil,1240mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad R22-1(11992.441mil,1180mil) on Top Copper And Pad C14-2(12047.559mil,1240mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad SRST-1(10740mil,3750mil) on Top Copper And Pad C14-2(12047.559mil,1240mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW1-4(8180.866mil,8948.583mil) on Top Copper And Pad C15-1(8347.559mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-1(8347.559mil,8700mil) on Top Copper And Pad U5-4(8369.37mil,8119.37mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_1 Between Pad R21-2(8247.559mil,8700mil) on Top Copper And Pad C15-2(8292.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW2-4(8830.866mil,8938.583mil) on Top Copper And Pad C16-1(8987.559mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_2 Between Pad R24-2(8887.559mil,8700mil) on Top Copper And Pad C16-2(8932.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW3-4(9480.866mil,8948.583mil) on Top Copper And Pad C17-1(9647.559mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net BTN_3 Between Pad R29-2(9547.559mil,8700mil) on Top Copper And Pad C17-2(9592.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT- Between Pad C18-1(8900mil,7702.441mil) on Top Copper And Pad J1-2(9910mil,7650mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VBAT- Between Pad VBAT--1(7430mil,7750mil) on Top Copper And Pad C18-1(8900mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC18_2 Between Pad C18-2(8900mil,7757.559mil) on Top Copper And Pad R35-1(11240mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C9-1(7692.441mil,8120mil) on Top Copper And Pad C19-1(7780mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-1(7780mil,7702.441mil) on Top Copper And Pad R38-1(8000mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBUS Between Pad C19-2(7780mil,7757.559mil) on Top Copper And Pad R39-2(8460mil,7757.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R38-1(8000mil,7702.441mil) on Top Copper And Pad C20-1(8230mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C20-1(8230mil,7702.441mil) on Top Copper And Pad R39-1(8460mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT+ Between Pad C20-2(8230mil,7757.559mil) on Top Copper And Pad J1-1(10010mil,7650mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3A Between Pad L1-1(1377.559mil,1560mil) on Top Copper And Pad C2-1(1432.441mil,1540mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3A Between Pad R15-2(1432.441mil,1480mil) on Top Copper And Pad C2-1(1432.441mil,1540mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3A Between Pad C2-1(1432.441mil,1540mil) on Top Copper And Pad U4-5(1495.354mil,1640mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C21-1(12970mil,5062.441mil) on Top Copper And Pad C22-1(13180mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C26-1(12740mil,5062.441mil) on Top Copper And Pad C21-1(12970mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C21-2(12970mil,5117.559mil) on Top Copper And Pad C22-2(13180mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C26-2(12740mil,5117.559mil) on Top Copper And Pad C21-2(12970mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad R16-1(1432.441mil,1360mil) on Top Copper And Pad C2-2(1487.559mil,1540mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C2-2(1487.559mil,1540mil) on Top Copper And Pad U4-2(1580mil,1665.591mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C22-1(13180mil,5062.441mil) on Top Copper And Pad C23-1(13410mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C22-2(13180mil,5117.559mil) on Top Copper And Pad C23-2(13410mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C23-1(13410mil,5062.441mil) on Top Copper And Pad C24-1(13640mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C23-2(13410mil,5117.559mil) on Top Copper And Pad C24-2(13640mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C25-1(12510mil,5062.441mil) on Top Copper And Pad C26-1(12740mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-9(12330mil,4200mil) on Multi-Layer And Pad C25-1(12510mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C25-2(12510mil,5117.559mil) on Top Copper And Pad C26-2(12740mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R40-2(11120mil,5117.559mil) on Top Copper And Pad C25-2(12510mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C25-2(12510mil,5117.559mil) on Top Copper And Pad U2-5(12620.315mil,8026.693mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J3-9(9660mil,4200mil) on Multi-Layer And Pad C27-1(10070mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C27-1(10070mil,5062.441mil) on Top Copper And Pad SKT1-14(10515.512mil,5076.26mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net DET_SW Between Pad C27-2(10070mil,5117.559mil) on Top Copper And Pad R41-2(10300mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C28-1(7080mil,5062.441mil) on Top Copper And Pad C29-1(7310mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C28-2(7080mil,5117.559mil) on Top Copper And Pad C29-2(7310mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad L1-2(1300mil,1560mil) on Top Copper And Pad C28-2(7080mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C29-1(7310mil,5062.441mil) on Top Copper And Pad DISP1-1(7910mil,5040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C29-2(7310mil,5117.559mil) on Top Copper And Pad DISP1-2(8010mil,5040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad C3-1(1387.559mil,1360mil) on Top Copper And Pad R16-1(1432.441mil,1360mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad C3-2(1332.441mil,1360mil) on Top Copper And Pad R14-2(1332.441mil,1420mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C4-1(10402.441mil,8120mil) on Top Copper And Pad C5-1(10572.441mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C4-2(10457.559mil,8120mil) on Top Copper And Pad C5-2(10627.559mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R28-1(9547.559mil,8640mil) on Top Copper And Pad C4-2(10457.559mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(10572.441mil,8120mil) on Top Copper And Pad R13-1(11090mil,8072.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U10-2(10494.882mil,7700mil) on Top Copper And Pad C5-1(10572.441mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C5-2(10627.559mil,8120mil) on Top Copper And Pad R12-1(11310mil,8072.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC6_1 Between Pad C6-1(1487.559mil,1420mil) on Top Copper And Pad R15-1(1487.559mil,1480mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC6_1 Between Pad R16-2(1487.559mil,1360mil) on Top Copper And Pad C6-1(1487.559mil,1420mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC6_2 Between Pad R14-1(1387.559mil,1420mil) on Top Copper And Pad C6-2(1432.441mil,1420mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC7_1 Between Pad C7-1(1380mil,1772.441mil) on Top Copper And Pad R19-1(1380mil,1727.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MIC OUT Between Pad R18-1(1299.37mil,1825.945mil) on Top Copper And Pad C7-2(1380mil,1827.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad U4-2(1580mil,1665.591mil) on Top Copper And Pad C8-1(1587.559mil,1800mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC8_2 Between Pad R17-1(1532.441mil,1740mil) on Top Copper And Pad C8-2(1532.441mil,1800mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad C9-2(7747.559mil,8120mil) on Top Copper And Pad U5-1(8290.63mil,8119.37mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetCOUT_1 Between Pad Q2-1(7080.63mil,7727.402mil) on Top Copper And Pad COUT-1(10170mil,7750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetCOUT_1 Between Pad COUT-1(10170mil,7750mil) on Top Copper And Pad U9-2(11487.362mil,7730mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP14/MB1_CS Between Pad CS1-1(16090mil,3130mil) on Top Copper And Pad U1-19(16910mil,1240mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP22/MB2_CS Between Pad CS2-1(12040mil,3130mil) on Top Copper And Pad U1-29(17610mil,1940mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1A-1(8398.071mil,9144.567mil) on Top Copper And Pad D1A-2(8398.071mil,9180mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1A-1(8398.071mil,9144.567mil) on Top Copper And Pad SW1-3(8539.134mil,8948.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1A-2(8398.071mil,9180mil) on Top Copper And Pad D1A-3(8398.071mil,9215.433mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1A_4 Between Pad R32A-1(8280mil,9452.441mil) on Top Copper And Pad D1A-4(8281.929mil,9215.433mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1A_5 Between Pad D1A-5(8281.929mil,9180mil) on Top Copper And Pad R33A-1(8340mil,9452.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1A_6 Between Pad D1A-6(8281.929mil,9144.567mil) on Top Copper And Pad R34A-1(8400mil,9452.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1B-1(9078.071mil,9144.567mil) on Top Copper And Pad D1B-2(9078.071mil,9180mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1B-1(9078.071mil,9144.567mil) on Top Copper And Pad SW2-3(9189.134mil,8938.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1B-2(9078.071mil,9180mil) on Top Copper And Pad D1B-3(9078.071mil,9215.433mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1B_4 Between Pad R32B-1(8960mil,9452.441mil) on Top Copper And Pad D1B-4(8961.929mil,9215.433mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1B_5 Between Pad D1B-5(8961.929mil,9180mil) on Top Copper And Pad R33B-1(9020mil,9452.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1B_6 Between Pad D1B-6(8961.929mil,9144.567mil) on Top Copper And Pad R34B-1(9080mil,9452.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1C-1(9718.071mil,9164.567mil) on Top Copper And Pad D1C-2(9718.071mil,9200mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1C-1(9718.071mil,9164.567mil) on Top Copper And Pad SW3-3(9839.134mil,8948.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1C-2(9718.071mil,9200mil) on Top Copper And Pad D1C-3(9718.071mil,9235.433mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1C_4 Between Pad R32C-1(9600mil,9472.441mil) on Top Copper And Pad D1C-4(9601.929mil,9235.433mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1C_5 Between Pad D1C-5(9601.929mil,9200mil) on Top Copper And Pad R33C-1(9660mil,9472.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetD1C_6 Between Pad D1C-6(9601.929mil,9164.567mil) on Top Copper And Pad R34C-1(9720mil,9472.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DISP1-1(7910mil,5040mil) on Multi-Layer And Pad J3-8(8760mil,4200mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R6-1(7872.441mil,3130mil) on Top Copper And Pad DISP1-1(7910mil,5040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad DISP1-2(8010mil,5040mil) on Multi-Layer And Pad J3-7(8760mil,4300mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP5/I2C0 SDL Between Pad DISP1-3(8110mil,5040mil) on Multi-Layer And Pad U7-24(11975.748mil,1107.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP4/I2C0 SDA Between Pad DISP1-4(8210mil,5040mil) on Multi-Layer And Pad U7-25(11960mil,1107.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetDOUT_1 Between Pad Q3-1(7250.63mil,7727.402mil) on Top Copper And Pad DOUT-1(9580mil,7750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetDOUT_1 Between Pad DOUT-1(9580mil,7750mil) on Top Copper And Pad U9-3(11487.362mil,7710.315mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBUS Between Pad R39-2(8460mil,7757.559mil) on Top Copper And Pad DS1-1(8690mil,7670.472mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBUS Between Pad DS1-1(8690mil,7670.472mil) on Top Copper And Pad U10-4(10605.118mil,7662.598mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetDS1_2 Between Pad DS1-2(8690mil,7729.528mil) on Top Copper And Pad R37-1(9120mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP10/MOT_CSn Between Pad ICS-1(11310mil,3130mil) on Top Copper And Pad U1-14(16910mil,1740mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP10/MOT_CSn Between Pad ICS-1(11310mil,3130mil) on Top Copper And Pad U2-12(12659.685mil,8113.307mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP12/ICM_INT1 Between Pad IINT-1(10160mil,3130mil) on Top Copper And Pad R10-2(11950mil,8127.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP12/ICM_INT1 Between Pad IINT-1(10160mil,3130mil) on Top Copper And Pad U1-16(16910mil,1540mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP3/MB1_INT Between Pad INT1-1(14870mil,3130mil) on Top Copper And Pad U1-5(16910mil,2640mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP21/MB2_INT Between Pad INT2-1(12510mil,3130mil) on Top Copper And Pad U1-27(17610mil,1740mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetIO11_1 Between Pad IO11-1(10490mil,3750mil) on Top Copper And Pad U7-16(12037.756mil,998.504mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetIO12_1 Between Pad IO12-1(10210mil,3750mil) on Top Copper And Pad U7-19(12037.756mil,1045.748mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetIO3_1 Between Pad U7-2(11882.244mil,1061.496mil) on Top Copper And Pad IO3-1(12020mil,3750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetIO4_1 Between Pad IO4-1(11480mil,3750mil) on Top Copper And Pad U7-5(11882.244mil,1014.252mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT+ Between Pad J1-1(10010mil,7650mil) on Multi-Layer And Pad U10-3(10494.882mil,7662.598mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT- Between Pad J1-2(9910mil,7650mil) on Multi-Layer And Pad U9-4(11532.638mil,7710.315mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad J2-7(11430mil,4300mil) on Multi-Layer And Pad R27-2(11880mil,1387.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R40-2(11120mil,5117.559mil) on Top Copper And Pad J2-7(11430mil,4300mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-8(11430mil,4200mil) on Multi-Layer And Pad J2-9(12330mil,4200mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-8(11430mil,4200mil) on Multi-Layer And Pad R31-1(11820mil,1387.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SKT1-12(11015.118mil,4632.756mil) on Top Copper And Pad J2-8(11430mil,4200mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R25-2(8520mil,3757.559mil) on Top Copper And Pad J3-7(8760mil,4300mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad J3-7(8760mil,4300mil) on Multi-Layer And Pad R42-1(9840mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J3-8(8760mil,4200mil) on Multi-Layer And Pad J3-9(9660mil,4200mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad MK1-N(1440mil,1220mil) on Multi-Layer And Pad L2-1(1540mil,1278.78mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net AGND Between Pad R16-1(1432.441mil,1360mil) on Top Copper And Pad L2-1(1540mil,1278.78mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L2-2(1540mil,1201.22mil) on Top Copper And Pad R6-1(7872.441mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MB1_MISO Between Pad MB_MISO-1(8220mil,3120mil) on Top Copper And Pad R4-2(8907.559mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MB1_MISO Between Pad R5-2(8097.559mil,3130mil) on Top Copper And Pad MB_MISO-1(8220mil,3120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MB1_MOSI Between Pad MB_MOSI-1(7250mil,3120mil) on Top Copper And Pad R7-2(7757.559mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MB1_MOSI Between Pad R8-2(7127.559mil,3130mil) on Top Copper And Pad MB_MOSI-1(7250mil,3120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP16/SPI0_RX Between Pad SKT1-7(10926.142mil,5076.85mil) on Top Copper And Pad MISO-1(15140mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP16/SPI0_RX Between Pad MISO-1(15140mil,3130mil) on Top Copper And Pad U1-21(17610mil,1140mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC6_2 Between Pad MK1-P(1384.882mil,1220mil) on Multi-Layer And Pad R14-1(1387.559mil,1420mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP19/SPI0_TX Between Pad SKT1-3(10752.914mil,5076.85mil) on Top Copper And Pad MOSI-1(13660mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP19/SPI0_TX Between Pad MOSI-1(13660mil,3130mil) on Top Copper And Pad U1-25(17610mil,1540mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net MIC_OUT Between Pad MOUT-1(9550mil,3130mil) on Top Copper And Pad P1-1(9880mil,2900mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP13/OPT_INT Between Pad OINT-1(16520mil,3130mil) on Top Copper And Pad U1-17(16910mil,1440mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP13/OPT_INT Between Pad U3-7(13013.858mil,8099.843mil) on Top Copper And Pad OINT-1(16520mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VSYS_SENSE Between Pad VSYSM-1(9030mil,3130mil) on Top Copper And Pad P1-3(9880mil,3100mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP2/MB1_PWM Between Pad PWM1-1(15420mil,3130mil) on Top Copper And Pad U1-4(16910mil,2740mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP7/MB2_PWM Between Pad PWM2-1(12800mil,3130mil) on Top Copper And Pad U1-10(16910mil,2140mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VBUS Between Pad U10-4(10605.118mil,7662.598mil) on Top Copper And Pad Q1-1(11060.63mil,7727.402mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBUS Between Pad Q1-1(11060.63mil,7727.402mil) on Top Copper And Pad U1-40(17610mil,3040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VSYS Between Pad R3-1(8682.441mil,3130mil) on Top Copper And Pad Q1-2(11060.63mil,7652.599mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT+ Between Pad Q1-3(11139.37mil,7690mil) on Top Copper And Pad R35-2(11240mil,7757.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT+ Between Pad VBAT+-1(10710mil,7750mil) on Top Copper And Pad Q1-3(11139.37mil,7690mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetQ2_2 Between Pad Q2-2(7080.63mil,7652.599mil) on Top Copper And Pad Q3-2(7250.63mil,7652.599mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBAT- Between Pad Q3-3(7329.37mil,7690mil) on Top Copper And Pad VBAT--1(7430mil,7750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R12-1(11310mil,8072.441mil) on Top Copper And Pad R10-1(11950mil,8072.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R10-1(11950mil,8072.441mil) on Top Copper And Pad R9-2(12227.559mil,8120mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP12/ICM_INT1 Between Pad R10-2(11950mil,8127.559mil) on Top Copper And Pad U2-4(12586.85mil,8040.472mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R2-1(9382.441mil,3130mil) on Top Copper And Pad R1-1(10002.441mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC3_2 Between Pad R14-2(1332.441mil,1420mil) on Top Copper And Pad R11-1(1332.441mil,1480mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3A Between Pad R11-2(1387.559mil,1480mil) on Top Copper And Pad R15-2(1432.441mil,1480mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP5/I2C0_SCL Between Pad R1-2(10057.559mil,3130mil) on Top Copper And Pad SCL-1(13930mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR12_2 Between Pad R13-2(11090mil,8127.559mil) on Top Copper And Pad R12-2(11310mil,8127.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR12_2 Between Pad R12-2(11310mil,8127.559mil) on Top Copper And Pad U3-2(12946.142mil,8099.843mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R13-1(11090mil,8072.441mil) on Top Copper And Pad U8-2(11669.444mil,7652.598mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC6_1 Between Pad R15-1(1487.559mil,1480mil) on Top Copper And Pad U4-1(1580mil,1640mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC7_1 Between Pad R19-1(1380mil,1727.559mil) on Top Copper And Pad R17-2(1587.559mil,1740mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC7_1 Between Pad U4-3(1580mil,1691.181mil) on Top Copper And Pad R17-2(1587.559mil,1740mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MIC OUT Between Pad R18-2(1260mil,1697.992mil) on Top Copper And Pad R18-1(1299.37mil,1825.945mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MIC OUT Between Pad R18-2(1260mil,1697.992mil) on Top Copper And Pad U4-4(1495.354mil,1691.181mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR18_3 Between Pad R18-3(1220.63mil,1825.945mil) on Top Copper And Pad R19-2(1380mil,1672.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R20-1(8247.559mil,8640mil) on Top Copper And Pad R23-1(8887.559mil,8640mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R20-1(8247.559mil,8640mil) on Top Copper And Pad U5-1(8290.63mil,8119.37mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR20_2 Between Pad R20-2(8192.441mil,8640mil) on Top Copper And Pad R21-1(8192.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R25-2(8520mil,3757.559mil) on Top Copper And Pad R2-1(9382.441mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR20_2 Between Pad SW1-2(8180.866mil,8771.417mil) on Top Copper And Pad R21-1(8192.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP4/I2C0_SDA Between Pad R2-2(9437.559mil,3130mil) on Top Copper And Pad SDA-1(14400mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP4/I2C0_SDA Between Pad U6-2(8472.441mil,8074.252mil) on Top Copper And Pad R2-2(9437.559mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC14_2 Between Pad U7-23(11991.496mil,1107.756mil) on Top Copper And Pad R22-1(11992.441mil,1180mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U7-18(12037.756mil,1030mil) on Top Copper And Pad R22-2(12047.559mil,1180mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R23-1(8887.559mil,8640mil) on Top Copper And Pad R28-1(9547.559mil,8640mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR23_2 Between Pad R23-2(8832.441mil,8640mil) on Top Copper And Pad R24-1(8832.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR23_2 Between Pad SW2-2(8830.866mil,8761.417mil) on Top Copper And Pad R24-1(8832.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP11/SX_INTn Between Pad R25-1(8520mil,3702.441mil) on Top Copper And Pad U7-9(11928.504mil,952.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SX15_ADDR1 Between Pad R26-1(11820mil,820mil) on Top Copper And Pad R30-2(11880mil,820mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SX15_ADDR0 Between Pad R31-2(11820mil,1332.441mil) on Top Copper And Pad R27-1(11880mil,1332.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SX15_ADDR0 Between Pad R27-1(11880mil,1332.441mil) on Top Copper And Pad U7-26(11944.252mil,1107.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R27-2(11880mil,1387.559mil) on Top Copper And Pad U7-4(11882.244mil,1030mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR28_2 Between Pad R28-2(9492.441mil,8640mil) on Top Copper And Pad R29-1(9492.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR28_2 Between Pad SW3-2(9480.866mil,8771.417mil) on Top Copper And Pad R29-1(9492.441mil,8700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net SX15_ADDR1 Between Pad R30-2(11880mil,820mil) on Top Copper And Pad U7-10(11944.252mil,952.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VSYS Between Pad R3-1(8682.441mil,3130mil) on Top Copper And Pad U1-39(17610mil,2940mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VSYS_SENSE Between Pad R6-2(7927.559mil,3130mil) on Top Copper And Pad R3-2(8737.559mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VSYS_SENSE Between Pad R3-2(8737.559mil,3130mil) on Top Copper And Pad VSYSM-1(9030mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_RA Between Pad R32A-2(8280mil,9507.559mil) on Top Copper And Pad U7-6(11882.244mil,998.504mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_RB Between Pad R32B-2(8960mil,9507.559mil) on Top Copper And Pad U7-13(11991.496mil,952.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_RC Between Pad R32C-2(9600mil,9527.559mil) on Top Copper And Pad U7-20(12037.756mil,1061.496mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_GA Between Pad R33A-2(8340mil,9507.559mil) on Top Copper And Pad U7-7(11882.244mil,982.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_GB Between Pad R33B-2(9020mil,9507.559mil) on Top Copper And Pad U7-14(12007.244mil,952.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_GC Between Pad R33C-2(9660mil,9527.559mil) on Top Copper And Pad U7-21(12037.756mil,1077.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_BA Between Pad R34A-2(8400mil,9507.559mil) on Top Copper And Pad U7-8(11912.756mil,952.244mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_BB Between Pad R34B-2(9080mil,9507.559mil) on Top Copper And Pad U7-15(12037.756mil,982.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net LED_BC Between Pad R34C-2(9720mil,9527.559mil) on Top Copper And Pad U7-22(12007.244mil,1107.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetC18_2 Between Pad R35-1(11240mil,7702.441mil) on Top Copper And Pad U9-5(11532.638mil,7730mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R39-1(8460mil,7702.441mil) on Top Copper And Pad R36-1(9350mil,7702.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R36-1(9350mil,7702.441mil) on Top Copper And Pad U10-2(10494.882mil,7700mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR36_2 Between Pad R36-2(9350mil,7757.559mil) on Top Copper And Pad U9-6(11532.638mil,7749.685mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR37_2 Between Pad R37-2(9120mil,7757.559mil) on Top Copper And Pad U10-1(10494.882mil,7737.401mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR38_2 Between Pad R38-2(8000mil,7757.559mil) on Top Copper And Pad U10-5(10605.118mil,7737.401mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R39-1(8460mil,7702.441mil) on Top Copper And Pad U6-4(8527.559mil,8105.748mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR40_1 Between Pad R41-1(10300mil,5062.441mil) on Top Copper And Pad R40-1(11120mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR40_1 Between Pad SKT1-9(10763.74mil,4583.15mil) on Top Copper And Pad R40-1(11120mil,5062.441mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad SKT1-4(10796.22mil,5076.85mil) on Top Copper And Pad R40-2(11120mil,5117.559mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP16/SPI0_RX Between Pad R7-1(7702.441mil,3130mil) on Top Copper And Pad R4-1(8852.441mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP16/SPI0_RX Between Pad R4-1(8852.441mil,3130mil) on Top Copper And Pad SKT1-7(10926.142mil,5076.85mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R42-1(9840mil,5062.441mil) on Top Copper And Pad SKT1-4(10796.22mil,5076.85mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net CS Between Pad R42-2(9840mil,5117.559mil) on Top Copper And Pad SKT1-2(10709.606mil,5076.85mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP19/SPI0_TX Between Pad R8-1(7072.441mil,3130mil) on Top Copper And Pad R5-1(8042.441mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP19/SPI0_TX Between Pad R5-1(8042.441mil,3130mil) on Top Copper And Pad SKT1-3(10752.914mil,5076.85mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP13/OPT_INT Between Pad R9-1(12172.441mil,8120mil) on Top Copper And Pad U3-7(13013.858mil,8099.843mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad R9-2(12227.559mil,8120mil) on Top Copper And Pad U2-5(12620.315mil,8026.693mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP6/MB1_RST Between Pad RST1-1(13390mil,3130mil) on Top Copper And Pad U1-9(16910mil,2240mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP20/MB2_RST Between Pad RST2-1(13090mil,3130mil) on Top Copper And Pad U1-26(17610mil,1640mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP1/MB1_RX Between Pad RX1-1(15870mil,3130mil) on Top Copper And Pad U1-2(16910mil,2940mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP9/MB2_RX Between Pad RX2-1(11810mil,3130mil) on Top Copper And Pad U1-12(16910mil,1940mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP18/SPI0_SCK Between Pad SKT1-5(10839.528mil,5076.85mil) on Top Copper And Pad SCK-1(14170mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP18/SPI0_SCK Between Pad SCK-1(14170mil,3130mil) on Top Copper And Pad U1-24(17610mil,1440mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP5/I2C0_SCL Between Pad SCL-1(13930mil,3130mil) on Top Copper And Pad U1-7(16910mil,2440mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CS Between Pad SKT1-2(10709.606mil,5076.85mil) on Top Copper And Pad SCS-1(14640mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net CS Between Pad SCS-1(14640mil,3130mil) on Top Copper And Pad U1-22(17610mil,1240mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP4/I2C0_SDA Between Pad SDA-1(14400mil,3130mil) on Top Copper And Pad U1-6(16910mil,2540mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP11/SX INTn Between Pad SINT-1(10730mil,3130mil) on Top Copper And Pad U1-15(16910mil,1640mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SKT1-13(10504.882mil,4632.756mil) on Top Copper And Pad SKT1-10(10595.827mil,4586.102mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SKT1-11(11011.969mil,5057.165mil) on Top Copper And Pad SKT1-12(11015.118mil,4632.756mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SKT1-6(10882.835mil,5076.85mil) on Top Copper And Pad SKT1-11(11011.969mil,5057.165mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SKT1-13(10504.882mil,4632.756mil) on Top Copper And Pad SKT1-14(10515.512mil,5076.26mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SKT1-14(10515.512mil,5076.26mil) on Top Copper And Pad SKT1-6(10882.835mil,5076.85mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U10-2(10494.882mil,7700mil) on Top Copper And Pad SKT1-14(10515.512mil,5076.26mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP19/SPI0_TX Between Pad SKT1-3(10752.914mil,5076.85mil) on Top Copper And Pad U2-14(12620.315mil,8113.307mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP18/SPI0_SCK Between Pad SKT1-5(10839.528mil,5076.85mil) on Top Copper And Pad U2-13(12640mil,8113.307mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP16/SPI0_RX Between Pad SKT1-7(10926.142mil,5076.85mil) on Top Copper And Pad U2-1(12586.85mil,8099.528mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net MIC OUT Between Pad U4-4(1495.354mil,1691.181mil) on Top Copper And Pad SOUT-1(1800mil,1740mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP15/SD DET Between Pad SW-1(15700mil,3130mil) on Top Copper And Pad U1-20(16910mil,1140mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetR20_2 Between Pad SW1-2(8180.866mil,8771.417mil) on Top Copper And Pad SW1-1(8539.134mil,8771.417mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW1-4(8180.866mil,8948.583mil) on Top Copper And Pad SW1-3(8539.134mil,8948.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW1-3(8539.134mil,8948.583mil) on Top Copper And Pad SW2-4(8830.866mil,8938.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR23_2 Between Pad SW2-2(8830.866mil,8761.417mil) on Top Copper And Pad SW2-1(9189.134mil,8761.417mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW2-4(8830.866mil,8938.583mil) on Top Copper And Pad SW2-3(9189.134mil,8938.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW2-3(9189.134mil,8938.583mil) on Top Copper And Pad SW3-4(9480.866mil,8948.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net NetR28_2 Between Pad SW3-2(9480.866mil,8771.417mil) on Top Copper And Pad SW3-1(9839.134mil,8771.417mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW3-4(9480.866mil,8948.583mil) on Top Copper And Pad SW3-3(9839.134mil,8948.583mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP0/MB1_TX Between Pad TX1-1(16300mil,3130mil) on Top Copper And Pad U1-1(16910mil,3040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GP8/MB2_TX Between Pad TX2-1(12280mil,3130mil) on Top Copper And Pad U1-11(16910mil,2040mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VBAT+ Between Pad U10-3(10494.882mil,7662.598mil) on Top Copper And Pad VBAT+-1(10710mil,7750mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-18(16910mil,1340mil) on Multi-Layer And Pad U1-13(16910mil,1840mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-13(16910mil,1840mil) on Multi-Layer And Pad U1-8(16910mil,2340mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-23(17610mil,1340mil) on Multi-Layer And Pad U1-28(17610mil,1840mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-28(17610mil,1840mil) on Multi-Layer And Pad U1-33(17610mil,2340mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-F(17383.095mil,1865.499mil) on Top Copper And Pad U1-28(17610mil,1840mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-8(16910mil,2340mil) on Multi-Layer And Pad U1-3(16910mil,2840mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-3(16910mil,2840mil) on Multi-Layer And Pad U1-C(17164.627mil,2915.499mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-33(17610mil,2340mil) on Multi-Layer And Pad U1-38(17610mil,2840mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VREF Between Pad U1-35(17610mil,2540mil) on Multi-Layer And Pad VREF-1(17790mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-D(17355.572mil,2915.499mil) on Top Copper And Pad U1-38(17610mil,2840mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VSYS Between Pad U1-39(17610mil,2940mil) on Multi-Layer And Pad VSYS-1(18380mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net VBUS Between Pad U1-40(17610mil,3040mil) on Multi-Layer And Pad VBUS-1(18680mil,3130mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-A(17152.816mil,3034.79mil) on Top Copper And Pad U1-C(17164.627mil,2915.499mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-D(17355.572mil,2915.499mil) on Top Copper And Pad U1-B(17367.383mil,3034.79mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-C(17164.627mil,2915.499mil) on Top Copper And Pad U1-TP1(17260.099mil,2916.68mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-TP1(17260.099mil,2916.68mil) on Top Copper And Pad U1-D(17355.572mil,2915.499mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-10(12693.15mil,8079.842mil) on Top Copper And Pad U2-11(12693.15mil,8099.528mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-7(12659.685mil,8026.693mil) on Top Copper And Pad U2-10(12693.15mil,8079.842mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-3(12586.85mil,8060.158mil) on Top Copper And Pad U2-2(12586.85mil,8079.842mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-3(12586.85mil,8060.158mil) on Top Copper And Pad U2-6(12640mil,8026.693mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U8-2(11669.444mil,7652.598mil) on Top Copper And Pad U2-3(12586.85mil,8060.158mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U2-5(12620.315mil,8026.693mil) on Top Copper And Pad U2-8(12693.15mil,8040.472mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-6(12640mil,8026.693mil) on Top Copper And Pad U2-7(12659.685mil,8026.693mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP4/I2C0_SDA Between Pad U6-2(8472.441mil,8074.252mil) on Top Copper And Pad U3-5(13013.858mil,8060.472mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP5/I2C0_SDL Between Pad U6-1(8472.441mil,8105.748mil) on Top Copper And Pad U3-8(13013.858mil,8119.528mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U5-1(8290.63mil,8119.37mil) on Top Copper And Pad U6-3(8527.559mil,8074.252mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP5/I2C0_SDL Between Pad U5-2(8290.63mil,8040.63mil) on Top Copper And Pad U6-1(8472.441mil,8105.748mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GP4/I2C0_SDA Between Pad U5-3(8369.37mil,8040.63mil) on Top Copper And Pad U6-2(8472.441mil,8074.252mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-4(8369.37mil,8119.37mil) on Top Copper And Pad U6-4(8527.559mil,8105.748mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U7-12(11975.748mil,952.244mil) on Top Copper And Pad U7-18(12037.756mil,1030mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (11981.654mil,1008.346mil) from Top Copper to Bottom Copper And Pad U7-17(12037.756mil,1014.252mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net +3V3 Between Pad U7-4(11882.244mil,1030mil) on Top Copper And Pad U7-18(12037.756mil,1030mil) on Top Copper 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U7-3(11882.244mil,1045.748mil) on Top Copper And Via (11938.346mil,1051.653mil) from Top Copper to Bottom Copper 
+   Violation between Un-Routed Net Constraint: Net VREF Between Pad U8-1(11669.444mil,7727.402mil) on Top Copper And Pad VREF-1(17790mil,3130mil) on Top Copper 
+Rule Violations :300
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (10083.622mil,7650mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (10448.622mil,7738.386mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (11060.63mil,7764.803mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (11430mil,4050mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (11450.945mil,7749.685mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (11847.795mil,1110.709mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (12330mil,4050mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (12548.465mil,8120.197mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (12938.661mil,8139.213mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (16780.178mil,3039.908mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7080.63mil,7764.803mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7120mil,5306.142mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7250.63mil,7764.803mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7290mil,5306.142mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7470mil,6506.142mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7597.402mil,4102.993mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7597.402mil,5039.999mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7640mil,6506.142mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7820mil,6506.142mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (7990mil,6506.142mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8240.433mil,8119.37mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8452.205mil,9144.567mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8452.756mil,8129.37mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8522.598mil,4102.993mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8522.598mil,5039.999mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8539.134mil,8722.205mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (8760mil,4050mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (9132.205mil,9144.567mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (9189.134mil,8712.205mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (9660mil,4050mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (9772.205mil,9164.567mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (9839.134mil,8722.205mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Arc (9880mil,2824.409mil) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad C11-2(11780mil,1027.559mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad C12-1(12027.559mil,860mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad C15-1(8347.559mil,8700mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad C22-1(13180mil,5062.441mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad D1B-1(9078.071mil,9144.567mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad D1B-3(9078.071mil,9215.433mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad D1B-4(8961.929mil,9215.433mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad D1B-5(8961.929mil,9180mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J2-12(12330mil,4500mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J3-11(9660mil,4400mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J4-10(7120mil,6290mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J5-12(7290mil,6490mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J6-5(7470mil,6990mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J7-8(7640mil,7290mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad J8-5(7820mil,6990mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad PWM1-1(15420mil,3130mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad Q1-2(11060.63mil,7652.599mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R13-1(11090mil,8072.441mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R24-2(8887.559mil,8700mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R26-2(11820mil,764.882mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R27-1(11880mil,1332.441mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R27-2(11880mil,1387.559mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R28-1(9547.559mil,8640mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R31-2(11820mil,1332.441mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R33B-2(9020mil,9507.559mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R36-1(9350mil,7702.441mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R39-2(8460mil,7757.559mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad R9-2(12227.559mil,8120mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad RX2-1(11810mil,3130mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad SDA-1(14400mil,3130mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad SKT1-3(10752.914mil,5076.85mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad SW3-2(9480.866mil,8771.417mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U10-4(10605.118mil,7662.598mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U1-25(17610mil,1540mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U1-6(16910mil,2540mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U1-9(16910mil,2240mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U1-B(17367.383mil,3034.79mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U2-10(12693.15mil,8079.842mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U3-4(12946.142mil,8060.472mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U7-12(11975.748mil,952.244mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad U7-21(12037.756mil,1077.244mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Pad VBAT+-1(10710mil,7750mil) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Text "P1" (9826mil,3175mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Text "R3" (8662mil,3175mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (10288.189mil,5090mil)(10311.811mil,5090mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11019.842mil,4713.465mil)(11019.842mil,4986.299mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11093.504mil,7747.48mil)(11125.591mil,7747.48mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11649.361mil,4996.662mil)(11690.84mil,4996.662mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11666.389mil,5057.351mil)(11850.204mil,5057.351mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11694.769mil,5118.914mil)(11734.065mil,5118.914mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11697.826mil,5125.026mil)(11730.572mil,5125.026mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11743.67mil,5011.944mil)(11773.36mil,5011.944mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11754.585mil,5030.718mil)(11762.008mil,5030.718mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11781.656mil,5109.745mil)(11823.57mil,5109.745mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11798.683mil,5058.225mil)(11806.106mil,5058.225mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11798.683mil,5089.661mil)(11806.106mil,5089.661mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11828.373mil,4987.056mil)(11865.049mil,4987.056mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11842.781mil,5022.859mil)(11850.204mil,5022.859mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11842.781mil,5029.845mil)(11850.204mil,5029.845mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,4986.183mil)(11950.188mil,4986.183mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,4987.93mil)(11951.498mil,4987.93mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,5013.253mil)(11946.695mil,5013.253mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,5028.535mil)(11906.527mil,5028.535mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,5073.943mil)(11902.597mil,5073.943mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,5091.844mil)(11902.597mil,5091.844mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11891.246mil,5111.928mil)(11946.259mil,5111.928mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11914.823mil,5086.604mil)(11926.611mil,5086.604mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11914.823mil,5087.041mil)(11926.611mil,5087.041mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11914.823mil,5095.337mil)(11926.611mil,5095.337mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11914.823mil,5104.942mil)(11926.611mil,5104.942mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11929.667mil,5008.451mil)(11951.498mil,5008.451mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11939.273mil,5077.436mil)(11950.625mil,5077.436mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11959.794mil,5102.759mil)(11971.582mil,5102.759mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11959.794mil,5133.322mil)(11971.582mil,5133.322mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11965.47mil,5000.592mil)(11980.751mil,5000.592mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11980.751mil,5112.801mil)(11992.103mil,5112.801mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (11998.653mil,5103.632mil)(12012.624mil,5103.632mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12007.822mil,4994.479mil)(12025.286mil,4994.479mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12011.314mil,5005.831mil)(12026.596mil,5005.831mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12011.314mil,5036.831mil)(12026.596mil,5036.831mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12027.469mil,5083.111mil)(12038.821mil,5083.111mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12027.469mil,5113.238mil)(12054.539mil,5113.238mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12036.638mil,5028.535mil)(12052.356mil,5028.535mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12037.075mil,5021.113mil)(12058.469mil,5021.113mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12039.258mil,5040.76mil)(12100.383mil,5040.76mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12042.314mil,5045.126mil)(12100.383mil,5045.126mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12046.244mil,5105.379mil)(12057.595mil,5105.379mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12046.614mil,943.386mil)(12046.614mil,963.071mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12061.525mil,5092.28mil)(12073.313mil,5092.28mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12087.722mil,4999.282mil)(12103.877mil,4999.282mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12092.088mil,5101.013mil)(12104.75mil,5101.013mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (12092.961mil,5098.83mil)(12105.186mil,5098.83mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (7766.85mil,6525.236mil)(7873.15mil,6525.236mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (7936.85mil,6525.236mil)(7936.85mil,7354.764mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (7936.85mil,7354.764mil)(8043.15mil,7354.764mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8241.89mil,8978.11mil)(8478.11mil,8978.11mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8333.622mil,4024.252mil)(8522.598mil,4024.252mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8960mil,8688.189mil)(8960mil,8711.811mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8983.291mil,4984.873mil)(9016.91mil,4984.873mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8984.164mil,5011.07mil)(9016.037mil,5011.07mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8988.094mil,5014.563mil)(9012.107mil,5014.563mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8996.389mil,5050.365mil)(9003.375mil,5050.365mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8996.389mil,5052.112mil)(9180.204mil,5052.112mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (8996.389mil,5056.915mil)(9180.204mil,5056.915mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9023.459mil,5109.745mil)(9065.374mil,5109.745mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9023.459mil,5111.492mil)(9065.374mil,5111.492mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9023.459mil,5111.928mil)(9065.374mil,5111.928mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9024.333mil,5104.942mil)(9064.065mil,5104.942mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9040.487mil,5063.464mil)(9047.91mil,5063.464mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9040.487mil,5085.295mil)(9047.91mil,5085.295mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9067.994mil,5000.592mil)(9109.036mil,5000.592mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9068.431mil,5003.648mil)(9108.599mil,5003.648mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9072.797mil,4983.127mil)(9104.233mil,4983.127mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9076.726mil,5014.563mil)(9100.303mil,5014.563mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9081.966mil,5017.183mil)(9095.064mil,5017.183mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9084.585mil,5019.803mil)(9092.008mil,5019.803mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9084.585mil,5023.295mil)(9092.008mil,5023.295mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9084.585mil,5039.887mil)(9092.008mil,5039.887mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9112.529mil,5105.815mil)(9152.697mil,5105.815mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9112.965mil,5119.351mil)(9152.261mil,5119.351mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9119.078mil,5095.773mil)(9146.148mil,5095.773mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9158.81mil,5008.014mil)(9194.612mil,5008.014mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9160.556mil,4984mil)(9193.302mil,4984mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9160.993mil,4983.564mil)(9192.866mil,4983.564mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9172.781mil,5028.098mil)(9180.204mil,5028.098mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9172.781mil,5044.253mil)(9180.204mil,5044.253mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9172.781mil,5048.619mil)(9180.204mil,5048.619mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9221.246mil,4991.859mil)(9283.245mil,4991.859mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9221.246mil,5015.436mil)(9274.512mil,5015.436mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9221.246mil,5025.915mil)(9236.527mil,5025.915mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9221.246mil,5038.577mil)(9282.371mil,5038.577mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9221.246mil,5079.619mil)(9232.597mil,5079.619mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9244.823mil,5101.013mil)(9256.611mil,5101.013mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9264.47mil,5035.521mil)(9283.245mil,5035.521mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9266.653mil,5004.521mil)(9283.245mil,5004.521mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9269.273mil,5073.943mil)(9280.625mil,5073.943mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9269.273mil,5080.928mil)(9280.625mil,5080.928mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9269.273mil,5087.478mil)(9280.625mil,5087.478mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9289.794mil,5097.083mil)(9301.582mil,5097.083mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9289.794mil,5113.238mil)(9301.582mil,5113.238mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9295.033mil,5033.338mil)(9310.315mil,5033.338mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9299.399mil,4987.93mil)(9352.23mil,4987.93mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9305.075mil,4983.127mil)(9346.554mil,4983.127mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5080.492mil)(9322.103mil,5080.492mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5082.238mil)(9322.103mil,5082.238mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5104.506mil)(9322.103mil,5104.506mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5118.914mil)(9322.103mil,5118.914mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5123.717mil)(9322.103mil,5123.717mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5126.336mil)(9322.103mil,5126.336mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9310.751mil,5129.393mil)(9322.103mil,5129.393mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9325.16mil,5089.224mil)(9339.568mil,5089.224mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9335.202mil,4992.296mil)(9354.849mil,4992.296mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9337.385mil,5074.816mil)(9352.666mil,5074.816mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9341.314mil,5015mil)(9356.596mil,5015mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9341.314mil,5041.633mil)(9356.596mil,5041.633mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9341.314mil,5046.873mil)(9356.596mil,5046.873mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9357.469mil,5089.224mil)(9368.821mil,5089.224mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9357.469mil,5098.83mil)(9368.821mil,5098.83mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9357.469mil,5099.266mil)(9368.821mil,5099.266mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9357.469mil,5107.998mil)(9387.159mil,5107.998mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9376.68mil,5100.14mil)(9387.595mil,5100.14mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9376.68mil,5102.759mil)(9387.595mil,5102.759mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9391.525mil,5093.59mil)(9403.313mil,5093.59mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9391.525mil,5098.393mil)(9403.313mil,5098.393mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9391.525mil,5098.83mil)(9403.75mil,5098.83mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9393.271mil,5104.069mil)(9406.806mil,5104.069mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 11.811mil) Between Board Edge And Track (9393.708mil,5083.985mil)(9407.68mil,5083.985mil) on Top Overlay 
+Rule Violations :200
+
+Processing Rule : Matched Lengths(Tolerance=19.685mil) (InNetClass('SDCard'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:00
