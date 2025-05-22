@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Lucas Emanuel - PCEIoT.PrjPcb]
+   Generated File[Copy of PCB1.TXT]
+   Generated File[Copy of PCB1.LDP]
+   Generated File[Copy of PCB1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 08:56:41 On 21/05/2025

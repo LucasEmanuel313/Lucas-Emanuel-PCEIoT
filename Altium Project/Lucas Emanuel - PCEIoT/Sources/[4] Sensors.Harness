@@ -1,3 +1,0 @@
-I2CSensorHarn=SCL,SDA
-SensorsSigHarn=OPT_INT,ICM_INT1
-SPISensorHarn=CLK,SDI,SDO,CSn
