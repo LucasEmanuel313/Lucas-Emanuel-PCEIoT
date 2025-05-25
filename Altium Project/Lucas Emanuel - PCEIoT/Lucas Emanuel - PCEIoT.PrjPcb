@@ -62,9 +62,12 @@ Fabrication=FAB-`ProjectName`
 Assembly=ASM-`ProjectName`-`VariantName`
 Assembly Manufacturing=ASM-`ProjectName`-`VariantName`
 Assembly Fabricação=ASM-`ProjectName`-`VariantName`
+Docs=CUSTOM-`ProjectName`
 
 [Release]
 ReleaseTarget=3
+ReleaseFolderPath=C:\Users\lucas\OneDrive\Documentos\PCEIoT\Altium Project\Entregaveis 1
+ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
 DocumentPath=Libraries\PCB-PCEIOT.PcbLib
@@ -217,7 +220,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HDFJAWFQ
 
 [Document10]
 DocumentPath=[2] BlockDiagram.SchDoc
@@ -234,7 +237,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BDYAZXWW
 
 [Document11]
 DocumentPath=[3] TopLevel.SchDoc
@@ -251,7 +254,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VFBWJNRO
 
 [Document12]
 DocumentPath=[3] TopLevel.Harness
@@ -285,7 +288,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BBENSMGZ
 
 [Document14]
 DocumentPath=[4] Sensors.Harness
@@ -319,7 +322,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LPKSWBFV
 
 [Document16]
 DocumentPath=[5] ButtonsAndLeds.Harness
@@ -353,7 +356,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OUFFOLQT
 
 [Document18]
 DocumentPath=[7] PowerManagement.SchDoc
@@ -370,7 +373,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XSNAYYKQ
 
 [Document19]
 DocumentPath=[8] Conectors.SchDoc
@@ -387,7 +390,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZALVPFOJ
 
 [Document20]
 DocumentPath=[8] Conectors.Harness
@@ -421,26 +424,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHSNDZSN
 
 [Document22]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
 DocumentPath=FABJobFile.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=DocJobFile.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -816,7 +802,9 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Lucas Emanuel - PCEIoT.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
@@ -828,7 +816,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=Job1.OutJob
+OutputJobFileName1=FABJobFile.OutJob
 ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Fabrication
 
@@ -861,6 +849,18 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
+
+[Configuration6]
+Name=Docs
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=DocJobFile.OutJob
+ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
+ConfigurationType=Custom
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -1391,6 +1391,36 @@ OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
+OutputType11=Ansoft Neutral
+OutputName11=Ansoft Neutral (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=HyperLynx
+OutputName12=HyperLynx (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=MathWorks
+OutputName13=MathWorks (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
